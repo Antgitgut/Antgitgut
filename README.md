@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antgitgut
 - 👀 I’m interested in programming using Python
-- 🌱 I’m currently learning Python, creating basic scripts, and improving my knowledge & skills.
+- 🌱 I’m currently learning Python, creating basic scripts, and improving my knowledge with programming skills.
 - 📫 How to reach me? This information will be available after filling up my GIT with some useful works.
 
 <!---
